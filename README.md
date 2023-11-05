@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadamapeach
 - 👀 I’m interested in design
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently how to build a website
 - 💞️ I’m looking to collaborate on something positive, bring a great impact, and earn money💲
 - 📫 How to reach me oviana523@gmail.com
 
