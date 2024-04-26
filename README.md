@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oktaviana Sadama</h1>
 <h3 align="center">A passionate 6th semester student who interest in design, websites, and AI 🦄✨</h3>
-<img align="center" alt="mario" width="1000" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadamapeach&label=Profile%20views&color=0e75b6&style=flat" alt="sadamapeach" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="center" alt="mario" width="994" height="559" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif">
 
 - 🔭 I’m currently working on **SINFORMA Project**
 
@@ -16,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/oviana523@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oviana523@gmail.com" height="30" width="40" /></a>
+<a href="https://instagram.com/oktv.sadama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oktv.sadama" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
