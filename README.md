@@ -1,4 +1,6 @@
-Hi, I am sadamapeach.
+**Hi, I am sadamapeach** ✨
+
+Welcome to my repository...
 
 <!---
 sadamapeach/sadamapeach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
