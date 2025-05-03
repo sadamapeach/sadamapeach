@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oktaviana Sadama</h1>
-<h3 align="center">Undergraduate Computer Science student @ Diponegoro University who interest in design, websites, and AI 🦄✨</h3>
+<h3 align="center">Undergraduate Computer Science student @ Diponegoro University who interested in design, websites, and AI</h3>
 <img align="center" alt="mario" width="994" height="500" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif">
-
-- 🔭 I’m currently working on my final project 'wish me luck!'
-
-- 🌱 I’m currently learning **Few-Shot Learning**
 
 - 📫 How to reach me **oktavianasadama@gmail.com**
 
-- ⚡ Fun fact **I like movies a lot**
+- ⚡ Connect my LinkedIn **www.linkedin.com/in/oktavianasadama**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
