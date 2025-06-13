@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oktaviana Sadama</h1>
-<h3 align="center">Fresh Graduate Computer Science student @ Diponegoro University who is interested in design, websites, and AI 🧐✨</h3>
+<h3 align="center">Fresh Graduate Computer Science student @ Diponegoro University who is interested in data and AI 🧐✨</h3>
 <img align="center" alt="mario" width="994" height="500" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif">
 
 - 📫 How to reach me **oktavianasadama@gmail.com**
